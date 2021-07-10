@@ -1,4 +1,4 @@
-# Expenses
+# Expenses - Incomplete
 
 A weekly finances management Flutter project.
 
